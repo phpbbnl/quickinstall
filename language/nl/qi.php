@@ -152,7 +152,7 @@ $lang = array_merge($lang, array(
 	'GRANT_PERMISSIONS'		=> 'Stel permissies in',
 	'GRANT_PERMISSIONS_EXPLAIN'	=> '(bijv. 0060 voor schrijven/lezen)',
 
-	'IF_EMPTY_EXPLAIN'		=> 'Wanneer leeg zal de standaard configuratie worden gebruitk.',
+	'IF_EMPTY_EXPLAIN'		=> 'Wanneer leeg zal de standaard configuratie worden gebruikt.',
 	'IF_LEAVE_EMPTY'		=> 'Wanneer je dit niet invult moet je het invullen als je een forum aanmaakt.',
 	'IN_SETTINGS' 			=> 'Beheer je QuickInstall instellingen.',
 	'INSTALL_STYLES'		=> 'Stijlen installeren',

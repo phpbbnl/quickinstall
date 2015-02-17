@@ -161,7 +161,7 @@ $lang = array_merge($lang, array(
 	'IS_NOT_VALID' 			=> 'Is niet geldig.',
 
 	'LICENSE' 				=> 'Licentie?',
-	'LICENSE_EXPLAIN' 		=> 'Dit script is uitgegeven onder de voorwaarde van de <a href=&#34;license.txt&#34;>GNU General Public License version 2</a>. Dit is voornamelijk, omdat het gebruik maakt van grote delen van phpBB’s code, welke ook is uitgebracht onder deze licentie en vereist dat elke aanpassing hiervan het ook gebruikt. Maar ook omdat het een geweldige licentie is die gratis software gratis houd :).',
+	'LICENSE_EXPLAIN' 		=> 'Deze tool is uitgegeven onder de voorwaarde van de <a href=&#34;license.txt&#34;>GNU General Public License version 2</a>. Dit is voornamelijk, omdat het gebruik maakt van grote delen van phpBB’s code, welke ook is uitgebracht onder deze licentie en vereist dat elke aanpassing hiervan het ook gebruikt. Maar ook omdat het een geweldige licentie is die gratis software gratis houd :).',
 	'LOG_INSTALL_INSTALLED_QI'	=> '<strong>Geïnstalleerd met phpBB Quickinstall versie %s</strong>',
 
 	'MAKE_WRITABLE' 		=> 'Maak bestanden volledig beschrijfbaar',
@@ -296,7 +296,7 @@ $lang = array_merge($lang, array(
 	'YES' 					=> 'Ja',
 
 	'WHAT' 					=> 'Wat is QI?',
-	'WHAT_EXPLAIN' 			=> 'phpBB3 QuickInstall is een script om snel een phpBB forum te installeren. Lijkt ons duidelijk... ;-)',
+	'WHAT_EXPLAIN' 			=> 'phpBB3 QuickInstall is een tool om snel een phpBB forum te installeren. Lijkt ons duidelijk... ;-)',
 	'WHO_ELSE' 				=> 'Wie nog meer?',
 	'WHO_ELSE_EXPLAIN' 		=> '<ul><li>' . implode('</li><li>', array(
 		'Credits gaan naar het phpBB team, met name het ontwikkelingsteam dat dit prachtig stukje software heeft gemaakt.',
@@ -304,7 +304,7 @@ $lang = array_merge($lang, array(
 		'Dank aan Mike TUMS voor het mooie logo!',
 		'Dank aan de bèta testers!',
 		'Dank aan de phpBB community inclusief phpBB.com, startrekguide.com en phpBBModders.net!',
-		'Dank aan de Nederlandse vertalers die dit script met bloed, zweet en tranen hebben vertaald.',
+		'Dank aan de Nederlandse vertalers die deze tool met bloed, zweet en tranen hebben vertaald.',
 	)) . '</li></ul>',
 	'WHO_WHEN' 				=> 'Wie? Wanneer?',
 	'WHO_WHEN_EXPLAIN' 		=> 'phpBB3 QuickInstall is origineel gemaakt door Igor “eviL&lt;3” Wiedler in de zomer van 2007. Het is deels herschreven door hem in maart 2008.<br />Sinds maart 2010 wordt dit project onderhouden door Jari “Tumba25” Kanerva.',
